@@ -213,7 +213,7 @@ with col2:
 with col3:
     show_count = st.slider(
         "Number of reviews to display",
-        min_value=1,
+        min_value=0,
         max_value=min(50, len(df)),
         value=min(10, len(df))
     )
