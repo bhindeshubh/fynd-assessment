@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 plotly
 requests
-=======
-streamlit
-pandas
-plotly
-requests
->>>>>>> 3250154a341a55a81d06f2c7cc662e1b1f0d075b
 python-dotenv
