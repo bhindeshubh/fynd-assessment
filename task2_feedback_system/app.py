@@ -79,8 +79,8 @@ with col1:
     </div>
     """, unsafe_allow_html=True)
     
-    if st.button("📝 Go to User Dashboard", key="user_btn", use_container_width=True):
-        st.switch_page("pages/1_User_Dashboard.py")
+    # if st.button("📝 Go to User Dashboard", key="user_btn", use_container_width=True):
+    #     st.switch_page("pages/1_User_Dashboard.py")
 
 with col2:
     st.markdown("""
@@ -96,8 +96,8 @@ with col2:
     </div>
     """, unsafe_allow_html=True)
     
-    if st.button("📊 Go to Admin Dashboard", key="admin_btn", use_container_width=True):
-        st.switch_page("pages/2_Admin_Dashboard.py")
+    # if st.button("📊 Go to Admin Dashboard", key="admin_btn", use_container_width=True):
+    #     st.switch_page("pages/2_Admin_Dashboard.py")
 
 st.markdown("---")
 
