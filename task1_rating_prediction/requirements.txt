@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+jupyter
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+jupyter
+python-dotenv
